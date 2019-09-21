@@ -18,6 +18,13 @@
   "homepage": "https://github.com/Sophil-minn/todolist#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3"
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.40.2",
+    "webpack-dev-server": "^3.8.1"
   }
 }
